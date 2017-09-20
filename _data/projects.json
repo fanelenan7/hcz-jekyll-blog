@@ -25,6 +25,11 @@
 		"image": "placeholder.jpg",
 		"date": "Oct 2016",
 		"tags": ["Android","nodejs"]
+	},
+	{
+		"name": "Test Project",
+		"image": "kitty.png",
+		"date": "Sept 2017",
+		"tags": ["test", "project", "stuff"]
 	}
-
 ]
